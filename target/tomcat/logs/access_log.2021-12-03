@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:22:38:12 +0700] "GET /HelloSpringMVC HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:22:38:12 +0700] "GET /HelloSpringMVC/ HTTP/1.1" 200 57 http-bio-8080-exec-3 105
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:22:38:13 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:22:38:26 +0700] "GET /HelloSpringMVC/hellotuan/hehe HTTP/1.1" 200 154 http-bio-8080-exec-7 84
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:22:38:45 +0700] "GET /HelloSpringMVC/hellotuan/hehe123 HTTP/1.1" 200 157 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:22:38:50 +0700] "GET /HelloSpringMVC/hellotuan/meoseobi HTTP/1.1" 200 158 http-bio-8080-exec-3 5
